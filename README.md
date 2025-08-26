@@ -9,9 +9,13 @@ Click Fetch Data.
 The app downloads these files from https://www.fuzzwork.co.uk/dump/latest/ (compressed when available) and builds a local database:
 
 invTypes.csv
+
 mapDenormalize.csv
+
 mapSolarSystems.csv
+
 mapConstellations.csv
+
 mapRegions.csv
 
 Progress appears in the status bar. When done, you'll see a “Done. Imported X planets.” message and the totals at the top-left will update.
