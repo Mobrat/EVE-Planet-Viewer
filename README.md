@@ -2,6 +2,9 @@
 A simple tool made to view planets in EVE Online. Made with AI slop, but it does what I wanted it to do. Any real coders welcome to take the idea and run with it.
 The purpose of the tool was to easily view planets and their assossiated type and radius to choose ideal PI locations.
 
+How to install:
+Download the .zip file and extract it to the location you want it to reside.
+
 How it works (and how to use it)
 
 Click Fetch Data.
